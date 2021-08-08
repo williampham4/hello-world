@@ -1,2 +1,2 @@
 # hello-world
-This is a GitHub follow-along tutorial/guide
+This is a follow-along stutorial/guide to start GitHub
